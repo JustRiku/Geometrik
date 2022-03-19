@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "CUBO",
+        "opt1": "OCTAEDRO",
+        "opt2": "ESFERA",
+        "opt3": "CUBO"
+    },
+    {
+        "id": 2,
+        "name": "OCTAEDRO",
+        "opt1": "DODECAEDRO",
+        "opt2": "OCTAEDRO",
+        "opt3": "TETRAEDRO"
+    },
+    {
+        "id": 3,
+        "name": "ICOSAEDRO",
+        "opt1": "ICOSAEDRO",
+        "opt2": "CUBO",
+        "opt3": "DODECAEDRO"
+    },
+    {
+        "id": 4,
+        "name": "TETRAEDRO",
+        "opt1": "OCTAEDRO",
+        "opt2": "TETRAEDRO",
+        "opt3": "HEXAEDRO"
+    },
+    {
+        "id": 5,
+        "name": "DODECAEDRO",
+        "opt1": "DODECAEDRO",
+        "opt2": "ICOSAEDRO",
+        "opt3": "ESFERA"
+    }
+]

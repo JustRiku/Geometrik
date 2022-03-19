@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name":"TETRAEDRO / PIRÁMIDE",
+        "texto": "Tetraedro regular: Tiene cuatro caras que son triángulos equiláteros. Es decir, sus tres lados miden lo mismo, al igual que sus ángulos interiores que son de 60º (la suma de los ángulos interiores de un triángulo siempre es 180º)."
+    },
+    {
+        "id": 2,
+        "name":"HEXAEDRO / CUBO",
+        "texto": "Cubo o hexaedro regular: Como mencionamos previamente, es una figura de seis lados formada por cuadrados idénticos. Cabe recordar que un cuadrado es un cuadrilátero regular, específicamente, un paralelogramo. Se caracteriza porque sus cuatro lados miden igual y sus ángulos interiores también son todos iguales y rectos (miden 90º)."
+    },
+    {
+        "id": 3,
+        "name":"OCTAEDRO",
+        "texto": "Octaedro regular: Sus ocho caras son triángulos equiláteros idénticos."
+    },
+    {
+        "id": 4,
+        "name":"DODECAEDRO",
+        "texto": "Dodecaedro regular: Es una figura con doce lados, todos los cuales son pentágonos iguales entre sí. Dichos pentágonos, a su vez, son regulares. Es decir, son polígonos con cinco lados que tienen la misma longitud."
+    },
+    {
+        "id": 5,
+        "name":"ICOSAEDRO",
+        "texto": "Icosaedro regular: Es un poliedro con veinte caras, todas las cuales son triángulos equiláteros iguales entre sí."
+    },
+    {
+        "id": 6,
+        "name":"ESFERA",
+        "texto": "Una esfera es un semicírculo que gira sobre su propio diámetro, es decir, una figura lisa que carece de lados y esquinas."
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "CUBO",
+        "opt1": "CONO",
+        "opt2": "ESFERA",
+        "opt3": "CUBO",
+        "opt4": "CILINDRO"
+    },
+    {
+        "id": 2,
+        "name": "OCTAEDRO",
+        "opt1": "DODECAEDRO",
+        "opt2": "OCTAEDRO",
+        "opt3": "TETRAEDRO",
+        "opt4": "CUBO"
+    },
+    {
+        "id": 3,
+        "name": "ICOSAEDRO",
+        "opt1": "ICOSAEDRO",
+        "opt2": "TETRAEDRO",
+        "opt3": "DODECAEDRO",
+        "opt4": "PRISMA"
+    },
+    {
+        "id": 4,
+        "name": "TETRAEDRO",
+        "opt1": "OCTAEDRO",
+        "opt2": "TETRAEDRO",
+        "opt3": "HEXAEDRO",
+        "opt4": "TORO"
+    },
+    {
+        "id": 5,
+        "name": "DODECAEDRO",
+        "opt1": "DODECAEDRO",
+        "opt2": "ICOSAEDRO",
+        "opt3": "TORO ENREDADO",
+        "opt4": "ESFERA"
+    },
+    {
+        "id": 6,
+        "name": "ESFERA",
+        "opt1": "OCTAEDRO",
+        "opt2": "ESFERA",
+        "opt3": "CUBO",
+        "opt4": "ICOSAEDRO"
+    },
+    {
+        "id": 7,
+        "name": "PRISMA",
+        "opt1": "DODECAEDRO",
+        "opt2": "OCTAEDRO",
+        "opt3": "TETRAEDRO",
+        "opt4": "PRISMA"
+    },
+    {
+        "id": 8,
+        "name": "TORO",
+        "opt1": "TORO",
+        "opt2": "CUBO",
+        "opt3": "DODECAEDRO",
+        "opt4": "ESFERA"
+    },
+    {
+        "id": 9,
+        "name": "PIRÁMIDE",
+        "opt1": "OCTAEDRO",
+        "opt2": "PIRÁMIDE",
+        "opt3": "HEXAEDRO",
+        "opt4": "ESFERA"
+    },
+    {
+        "id": 10,
+        "name": "TORO ENREDADO",
+        "opt1": "DODECAEDRO",
+        "opt2": "ICOSAEDRO",
+        "opt3": "PIRÁMIDE",
+        "opt4": "TORO ENREDADO"
+    },
+    {
+        "id": 11,
+        "name": "PRISMA",
+        "opt1": "PIRÁMIDE",
+        "opt2": "PRISMA",
+        "opt3": "CUBO",
+        "opt4": "CONO"
+    },
+    {
+        "id": 12,
+        "name": "OCTAEDRO",
+        "opt1": "DODECAEDRO",
+        "opt2": "OCTAEDRO",
+        "opt3": "TETRAEDRO",
+        "opt4": "ESFERA"
+    },
+    {
+        "id": 13,
+        "name": "ICOSAEDRO",
+        "opt1": "ICOSAEDRO",
+        "opt2": "CUBO",
+        "opt3": "DODECAEDRO",
+        "opt4": "TORO TRIANGULAR"
+    },
+    {
+        "id": 14,
+        "name": "TETRAEDRO",
+        "opt1": "OCTAEDRO",
+        "opt2": "TETRAEDRO",
+        "opt3": "TORO CUADRADO",
+        "opt4": "PRISMA"
+    },
+    {
+        "id": 15,
+        "name": "TORO CUADRADO",
+        "opt1": "DODECAEDRO",
+        "opt2": "TORO ENREDADO",
+        "opt3": "TORO CUADRADO",
+        "opt4": "ESFERA"
+    }
+]
